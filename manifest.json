@@ -1,0 +1,21 @@
+{
+  "name": "Senaka Group Dashboard",
+  "short_name": "SenGroup",
+  "description": "Senaka Group Management Dashboard",
+  "start_url": "/senaka-group-dashboard/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
